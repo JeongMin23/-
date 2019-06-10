@@ -1,0 +1,84 @@
+.bar1 a{
+  padding: 0px 10px;
+  float: right;
+  font-size: large;
+  font-family: 'Nanum Myeongjo', serif;
+}
+
+h1{
+  font-size: 60px;
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: 3px solid black;
+}
+
+#user{
+  font-size: 50px;
+  float: right;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  padding: 0px 10px;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+#dic, #dream, #two, #c514, #gra, #jeju, #pan, #ame, #es, #la, #mo, #ma{
+  font-family: 'Nanum Myeongjo', serif;
+  font-size: large;
+  float: left;
+  text-align: center;
+  margin: 0px 30px;
+  margin-bottom: 50px;
+}
+
+#ban{
+  float: right;
+  padding: 20px 30px;
+}
+
+body{
+  background: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
+  background: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+  background: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  background: white;
+  margin: 10px 40px;
+}
+
+h2{
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-family: 'Nanum Myeongjo', serif;
+}
+
+p{
+  font-family: 'Nanum Myeongjo', serif;
+}
+
+#order{
+  float: right;
+  margin-right: 80px;
+  padding: 10px;
+  width: 200px;
+  border: 1.5px solid black;
+  border-radius: 10px;
+  background-color: white;
+  font-weight: bold;
+  font-size: large;
+}
+
+#order:hover{
+  background: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
+}
+
+ #ame, #es, #la, #mo, #ma{
+  padding: 10px 10px;
+  border: 1.5px solid #A4A4A4;
+}
